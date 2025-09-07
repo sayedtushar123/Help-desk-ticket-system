@@ -60,7 +60,7 @@ Setup Instructions
 
 1\. Clone this repository:
 
-&nbsp;  git clone https://github.com/yourusername/help-desk-ticket-system.git
+&nbsp;  git clone https://github.com/sayedtushar123/Help-desk-ticket-system
 
 &nbsp;  cd help-desk-ticket-system
 
@@ -117,6 +117,7 @@ Notes
 \- Sensitive credentials (Google JSON, Gmail password) must be kept private and not shared publicly.
 
 \- For real-world deployment, environment variables should be used instead of hardcoding credentials.
+
 
 
 
