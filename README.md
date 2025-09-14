@@ -98,7 +98,7 @@ Setup Instructions
 
 Usage
 
-\- Step 1: Submit a new ticket using the Google Form linked to your Sheet.
+\- Step 1: Submit a new ticket using the Google Form linked to Sheet.
 
 \- Step 2: Run the ticket processor to assign IDs and send notifications:
 
@@ -117,6 +117,7 @@ Notes
 \- Sensitive credentials (Google JSON, Gmail password) must be kept private and not shared publicly.
 
 \- For real-world deployment, environment variables should be used instead of hardcoding credentials.
+
 
 
 
